@@ -1,9 +1,12 @@
-#include "tetris.hpp"
+#include"tetris.hpp"
+#include<cstdlib>
+#include<ctime>
+#include<iostream>
 
-int main( int argc , char **argv ){
-  std::srand( std::time( 0 ) );
-  auto tetris = std::make_shared<Tetris>();
-  tetris->run();
-  return 0;
+int main()
+{
+    std::srand(std::time(0));
+    Tetris tetris;
+    tetris.run();
+    return 0;
 }
-
