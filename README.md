@@ -1,9 +1,8 @@
 # Tetris
 > Famous puzzle game remade with C++ and SFML
+> College student's homework, adding more function to the old project
 
 ---
-
-![Tetris](./resources/img/tetris.png) 
 
 # Dependencies
 + [g++](https://github.com/gcc-mirror/gcc)
@@ -22,4 +21,4 @@ make
 
 ---
 
-Game made in the video tutorial: <https://www.youtube.com/watch?v=TRzFKQw-uX4>
+reference:[terroo/tetris](https://github.com/terroo/tetris)
