@@ -1,7 +1,7 @@
 # Tetris
 > Famous puzzle game remade with C++ and SFML
 
-> College student's homework, adding more function to the old project
+> College student's C++ assignment, adding more function to the old project
 
 ---
 
